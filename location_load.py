@@ -2,6 +2,7 @@ import sqlite3
 import json
 import codecs
 from geopy.geocoders import Nominatim
+#Write incidents into the 'where.js' file in JSON format
 
 geolocator = Nominatim(user_agent="myarsenal96@gmail.com")
 conn = sqlite3.connect('servicenow.sqlite')
