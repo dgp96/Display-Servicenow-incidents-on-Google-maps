@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Need to install requests package for python
 # easy_install requests
-
+#Pull incident data from servicenow and store them in 'servicenow.sqlite' database
 import sqlite3
 import requests
 import json
