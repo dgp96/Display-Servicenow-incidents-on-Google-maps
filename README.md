@@ -1,7 +1,7 @@
 # Display-Servicenow-incidents-on-Google-maps
 
 Developed a Python program to extract incident ticket data from Servicenow and show it's geodistribution on Maps.
-The python scripts 'incident_sqlite_insertion.py' and 'location_load.py' is scheduled to run everyday.
+The python scripts 'incident_sqlite_insertion.py' and 'location_load.py' are scheduled to run everyday.
 (Click on Start Windows, search for Task Scheduler, and open it.)
 Check the images to know about it.
 
